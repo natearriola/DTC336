@@ -11,8 +11,39 @@ html, body{
     
 }
 
+.navbar{
+    position: fixed;
+    left: 0;
+    z-index: 9999;
+    width: 100%;
+  
+}
+.main-nav{
+    display: flex;
+    justify-content: flex-start;
+    list-style:none;
+    
+      
+}
 
+li{
+    padding: 20px;
 
+     
+}
+
+li > a{
+    color:#100A0C;
+    font-family: 'Anton', sans-serif;
+    font-size: 1.2em;
+    text-transform: uppercase; 
+
+}
+
+a:hover{
+    color: #bd5d05;
+    text-decoration: line-through;
+}
 
 body .bg{
     display: flex;
@@ -36,30 +67,8 @@ body .bg{
 
 
 
-.navbar{
-    margin: 0;
-    font-family: 'Anton', sans-serif;
-    font-size: 1em;
-    text-transform: uppercase;
-  
-}
-.main-nav{
-    display:flex;
-    position: absolute;
-    right: 50vh;
-    top: 1vh;
-    list-style:none;
-}
 
-li{
-    padding: 20px;
-}
 
-li > a{
-    color:#100A0C;
-    font-family: 'Anton';
-
-}
 
 
  .container{
