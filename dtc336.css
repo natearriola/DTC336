@@ -116,7 +116,7 @@ body .bg{
     grid-gap: 0;
     position: relative;
     right: 2.5vh;
-    top: 15vh;
+    top:15vh;
     z-index: 2;
 }
 .who::after{
