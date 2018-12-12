@@ -146,8 +146,8 @@ z-index: -1;
     justify-content: flex-start;
    padding:0;
   position: relative;
-  bottom: 50vh;
-  left:20vh;
+top: 8vh;
+  left:5vh;
 }
 
 
@@ -260,6 +260,7 @@ z-index: -1;
     display: flex;
     justify-content: center;
     align-items: center;
+    padding-top: 10em;
 }
 
 .content-3{
