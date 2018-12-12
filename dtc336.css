@@ -106,7 +106,7 @@ body .bg{
     font-style: bold;
     grid-gap: 0;
     position: relative;
-    left: 35vh;
+    left: 25vh;
     top: 15vh;
     z-index: 2;
 }
