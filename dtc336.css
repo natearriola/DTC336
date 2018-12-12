@@ -107,7 +107,7 @@ body .bg{
 .who{
     display: flex;
     font-family: 'Bungee Shade', cursive;
-    justify-content: flex-end;
+    justify-content: center;
     align-content: center;
     text-transform: uppercase;
     width: 100%;
