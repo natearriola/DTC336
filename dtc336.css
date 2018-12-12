@@ -115,8 +115,8 @@ body .bg{
     font-style: bold;
     grid-gap: 0;
     position: relative;
-    top: 5vh;
-    left: 15%;
+    top: 15vh;
+    left: 30vh;
     z-index: 2;
 }
 .who::after{
