@@ -151,11 +151,11 @@ z-index: -1;
 
 .spotify{
     display: flex;
-    align-items: flex-start;
+    align-items: flex-end;
     justify-content: flex-start;
    padding:0;
   position: relative;
-  bottom: 20vh;
+  bottom: 50vh;
   left:20vh;
 }
 
